@@ -1,6 +1,17 @@
 # 💫 About Me:
-🙋‍♀️ About Me<br><br>🔭 Currently building — cross-platform mobile apps using Flutter & Dart<br>🌱 Learning — State Management (Provider/Bloc), Firebase, REST API Integration<br>👩‍💻 Background — UI/UX & Graphic Designer with 1000+ creatives delivered for international clients<br>🎯 Goal — Build a hyperlocal app to digitize street vendors (Gali Partner)<br>💡 Unique combo — I write code AND make it look beautiful<br>📚 MCA Graduate — Bansal Institute of Science & Technology, RGPV<br>✍️ Published Author — E-book on SaaS fraud prevention<br>🤝 Open to — Flutter Developer Internship | Junior Flutter Developer roles<br>📍 Based in — Bhopal, India<br>📩 Reach me — bavanrajni@gmail.com
+🙋‍♀️ About Me<br><br>🔭 Currently building — cross-platform mobile apps using Flutter & Dart<br>🌱 Learning — State Management (Provider/Bloc), Firebase, REST API Integration<br>👩‍💻 Background — UI/UX & Graphic Designer with 1000+ creatives delivered for international clients<br>🎯 Goal — Build a hyperlocal app to digitize street vendors (Gali Partner)<br>💡 Unique combo — I write code AND make it look beautiful<br>📚 MCA Graduate — Bansal Institute of Science & Technology, RGPV<br>✍️ Published Author — E-book on SaaS fraud prevention<br>🤝 Open to — Flutter Developer Internship | Junior Flutter Developer roles<br>📍 Based in — Bhopal, India<br>
+📩 Reach me — bavanrajni@gmail.com
 
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=rajnibavan" alt="trophy" />
+
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/rajnibavan) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rajnibavan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajnibavan_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajnibavan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rajnibavan) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rajnibavan) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/rajnibavan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rajnibavan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rajnibavan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bavanrajni@gmail.com) 
@@ -17,9 +28,7 @@
 
 <img src="https://profile-counter.glitch.me/rajnibavan/count.svg?" alt="visitors count" />
 
-## GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=rajnibavan" alt="trophy" />
 
 ## GitHub Activity Graph
 
