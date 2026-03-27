@@ -1,3 +1,28 @@
+
+<!-- HEADER -->
+<h1 align="center">👋 Hi, I'm <span style="color:#4F46E5;">Rajni Bavan</span></h1>
+<h3 align="center">Flutter Developer • Canva Designer • Problem Solver</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=4F46E5&size=24&center=true&vCenter=true&width=600&lines=Flutter+Developer;Creative+Canva+Designer;MCA+Graduate;Building+Beautiful+Mobile+Apps" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/shubhammishra9039/shubhammishra9039/blob/main/img.gif?raw=true" width="420"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajnibavan&label=Profile+Views&color=4F46E5&style=flat-square" />
+</p>
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajnibavan&show_icons=true&theme=tokyonight&count_private=true" alt="Rajni Stats" height="170px" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnibavan&layout=compact&theme=tokyonight" alt="Top Languages" height="170px" />
+</p> -->
+
+---
+
 # 💫 About Me:
 🙋‍♀️ About Me<br><br>🔭 Currently building — cross-platform mobile apps using Flutter & Dart<br>🌱 Learning — State Management (Provider/Bloc), Firebase, REST API Integration<br>👩‍💻 Background — UI/UX & Graphic Designer with 1000+ creatives delivered for international clients<br>🎯 Goal — Build a hyperlocal app to digitize street vendors (Gali Partner)<br>💡 Unique combo — I write code AND make it look beautiful<br>📚 MCA Graduate — Bansal Institute of Science & Technology, RGPV<br>✍️ Published Author — E-book on SaaS fraud prevention<br>🤝 Open to — Flutter Developer Internship | Junior Flutter Developer roles<br>📍 Based in — Bhopal, India<br>
 📩 Reach me — bavanrajni@gmail.com
